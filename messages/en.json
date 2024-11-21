@@ -1,0 +1,49 @@
+{
+  "HomePage": {
+    "title": "Transform Your Events with Stunning Balloon Decor!",
+    "description": "From birthdays to weddings, make every occasion unforgettable with our creative and vibrant balloon decorations. Let us bring color, joy, and elegance to your celebration!",
+    "services_title": "Our Services",
+    "services_description": "Transform your events in Korea with our exquisite balloon decorations. From weddings and birthdays to corporate gatherings, our team creates unforgettable atmospheres that captivate and delight. Discover our range of designs and let us bring your vision to life with color, elegance, and creativity.",
+    "area_title": "Our Service Areas",
+    "area_description": "Explore the regions we serve! Our balloon decoration services are available across Korea, bringing joy and beauty to events in every province. Check the map to see how we can make your celebration unforgettable."
+  },
+  "ServicePage": {
+    "title": "Gallery",
+    "more": "more..."
+  },
+  "CalculatorPage": {
+    "title": "Cost Calculator for Decorations",
+    "description": "Get an approximate cost estimate for balloon decoration for your event using our calculator. Please note, the result is an estimation. For an accurate quote, contact our representatives.",
+    "calculate": "calculate",
+    "reset": "reset",
+    "select": "Select items",
+    "pricing": "Pricing:"
+  },
+  "Navigation": {
+    "services": "Our services",
+    "calculator": "Calculator"
+  },
+  "LocaleSwitcher": {
+    "label": "Change language",
+    "locale": "{locale, select, ru {Русский} en {English} kor {한국어} other {Unknown}}"
+  },
+  "Map": {
+    "Seoul": "Seoul",
+    "Busan": "Busan",
+    "Daegu": "Daegu",
+    "Daejeon": "Daejeon",
+    "Gangwon-do": "Gangwon-do",
+    "Gwangju": "Gwangju",
+    "Gyeonggi-do": "Gyeonggi-do",
+    "Incheon": "Incheon",
+    "Jeju": "Jeju",
+    "Chungcheongbuk-do": "Chungcheongbuk-do",
+    "Gyeongsangbuk-do": "Gyeongsangbuk-do",
+    "Jeollabuk-do": "Jeollabuk-do",
+    "Sejong": "Sejong",
+    "Chungcheongnam-do": "Chungcheongnam-do",
+    "Gyeongsangnam-do": "Gyeongsangnam-do",
+    "Jeollanam-do": "Jeollanam-do",
+    "Ulsan": "Ulsan"
+  }
+}
